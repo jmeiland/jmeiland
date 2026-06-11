@@ -1,5 +1,9 @@
-## Hi there 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jmeiland/jmeiland/main/github-header-bannerv2.png" alt="GitHub Banner">
+</p>
+
+## Hi there 👋
 <!--
 **jmeiland/jmeiland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,5 +22,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=jmeiland&color=blue" alt="Profile views" />
 </p>
 
-<img src="https://github.com/jmeiland/jmeiland/blob/main/github-banner.png">
+
+
 
