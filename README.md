@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/jmeiland/count.svg" alt="Visitor's Count" />
+  <img src="https://komarev.com/ghpvc/?username=jmeiland&color=blue" alt="Profile views" />
 </p>
+
 
